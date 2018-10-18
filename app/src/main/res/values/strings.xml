@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentExtras</string>
+    <string name="title_activity_second">Вторая активность</string>
+
+</resources>
